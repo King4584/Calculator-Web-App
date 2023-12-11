@@ -21,4 +21,6 @@ Open the HTML file in a web browser.
 - Use the on-screen buttons to input numbers and perform calculations.
 - The display screen shows the current input and results.
 
+Now you can open Quick Calci with internet just go on the link " https://quickcalci4584.000webhostapp.com/index.html "
+
 Feel free to explore the code, customize the styling, and integrate additional features based on your requirements. Contributions and feedback are welcome...😊😇
